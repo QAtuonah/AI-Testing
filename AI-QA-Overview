@@ -1,0 +1,44 @@
+# 🤖 AI Testing Overview for QA
+
+## What is AI Testing?
+
+AI Testing involves evaluating Machine Learning (ML) models and systems using QA principles to ensure reliability, fairness, and performance.
+
+---
+
+## Key Concepts for QA in AI
+
+- **Data Validation**: Ensure quality, balance, and representativeness of input data
+- **Model Behavior Testing**:
+  - Is the model accurate on known scenarios?
+  - How does it perform on edge cases?
+- **Bias & Fairness**: Identify unintentional discrimination in results
+- **Explainability**: Can we explain why a prediction was made?
+- **Performance Drift**: Does model performance degrade over time?
+
+---
+
+## How QA Can Contribute
+
+✅ Design edge case test scenarios  
+✅ Compare expected vs. actual ML predictions  
+✅ Validate inputs and outputs for consistency  
+✅ Test APIs serving AI results  
+✅ Collaborate with data scientists to build test sets  
+✅ Automate repetitive validations (Python + Pandas + Pytest)
+
+---
+
+## Recommended Skills
+
+- Python for data scripts
+- SQL for dataset validation
+- Tools: Pandas, Jupyter, Postman, JSON
+- Mindset: Analytical, patient, data-focused
+
+---
+
+## Resources
+
+- [Testing AI Systems — Google](https://testing.googleblog.com/2019/06/testing-ai-systems.html)
+- [ML Testing Guide — DeepMind](https://github.com/deepmind/ml-testing-guide)
