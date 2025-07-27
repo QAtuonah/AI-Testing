@@ -1,0 +1,16 @@
+# Model Validation – Sentiment Analysis
+
+## Objective
+Validate if the sentiment classification model accurately detects positive and negative feedback.
+
+## Test Scenarios
+
+1. Validate predictions for clearly positive/negative sentences.
+2. Check probability values are within [0.0, 1.0].
+3. Verify classification report (precision, recall, F1).
+4. Test robustness on short and long inputs.
+
+## Expected Results
+- Accuracy ≥ 85%
+- Misclassifications limited to ambiguous inputs
+- Probability outputs consistent with text tone
