@@ -1,0 +1,6 @@
+userId,productId,price,stock,categoryId,country
+101,201,49.99,23,1,Brazil
+102,202,19.99,0,2,USA
+103,203,89.99,5,1,India
+104,204,15.99,100,3,Germany
+105,205,59.99,12,2,Brazil
