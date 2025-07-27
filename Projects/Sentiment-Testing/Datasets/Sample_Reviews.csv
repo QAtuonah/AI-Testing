@@ -1,0 +1,5 @@
+review_text,label
+"I love this product!",positive
+"This is terrible.",negative
+"Great support team and quick resolution.",positive
+"Never buying from here again!",negative
